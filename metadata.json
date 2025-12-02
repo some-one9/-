@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Arkhos - Price Finder",
+  "description": "An AI-powered application to find the cheapest online prices for any product using Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
